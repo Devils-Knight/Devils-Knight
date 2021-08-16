@@ -1,5 +1,3 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Devils-Knight" alt="visitor badge"/>
-
 ### Hi There, I'm Shubham malik 👋 
 #### My **Specializations** aka things I am good at in chronological order 😇
 - Data structure and Algorithm🤩
